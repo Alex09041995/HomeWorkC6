@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\bin\Debug\net6.0\Task43Version2.exe
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\bin\Debug\net6.0\Task43Version2.deps.json
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\bin\Debug\net6.0\Task43Version2.runtimeconfig.json
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\bin\Debug\net6.0\Task43Version2.dll
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\bin\Debug\net6.0\Task43Version2.pdb
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.dll
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\refint\Task43Version2.dll
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.pdb
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\Task43Version2.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\QA\HomeWorkC6\Task43Version2\obj\Debug\net6.0\ref\Task43Version2.dll
